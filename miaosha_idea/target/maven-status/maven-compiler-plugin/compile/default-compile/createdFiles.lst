@@ -1,0 +1,7 @@
+com\imooc\miaosha\result\Result.class
+com\imooc\miaosha\controller\SampleController.class
+com\imooc\miaosha\dao\UserDao.class
+com\imooc\miaosha\result\CodeMsg.class
+com\imooc\miaosha\service\UserService.class
+com\imooc\miaosha\MainApplication.class
+com\imooc\miaosha\domain\User.class
